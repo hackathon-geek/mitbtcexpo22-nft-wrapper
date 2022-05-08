@@ -24,3 +24,6 @@ npm run start
 - [Open Zeppelin Docs - ERC721](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#IERC721-approve-address-uint256-)
 - [Moonbase Blockchain Explorer](https://moonbase.moonscan.io/)
 - [Moonbeam Web3 Docs](https://docs.moonbeam.network/builders/build/eth-api/libraries/web3js/)
+
+# Notes
+- The `private key` used in this example is for a dev/test account.
